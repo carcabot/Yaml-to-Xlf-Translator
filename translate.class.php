@@ -1,4 +1,10 @@
 <?php
+/**
+ * YAML to XLF using Bing Translator
+ * 
+ * @category    Translation 
+ * @author      CarcaBot
+ */
 
 class Translator {
 

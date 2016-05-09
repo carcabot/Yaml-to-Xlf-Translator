@@ -1,4 +1,10 @@
 <?php
+/**
+ * YAML to XLF using Bing Translator
+ *
+ * @category    Translation
+ * @author      CarcaBot
+ */
 
 set_time_limit(0);
 ini_set('display_errors', 0);
