@@ -31,7 +31,6 @@ class Translator {
             throw new Exception("\033[31m 'secret' is not set\033[0m\n");
         }
 
-
         echo "\033[32m Converting from {$languages[$this->from]} to {$languages[$this->to]}\033[0m\n"; // print converting language
 
         $parsed = yaml_parse(file_get_contents('langs/' . $this->from . ".yml"));

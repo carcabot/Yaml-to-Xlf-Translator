@@ -14,7 +14,7 @@ require_once('translate.class.php');
 $translate = new Translator();
 
 if (count($argv) == 1) {
-    echo "\033[32m php -q {$argv[0]} --from=en --to=es --client=clientID --secret=clientSecret\n"
+    echo "\033[32m php -q {$argv[0]} --from=en --to=es --client=\"clientID\" --secret=\"clientSecret\"\n"
     . " php -q {$argv[0]} --languages"
     . "\033[0m\n";
     exit();
@@ -26,7 +26,7 @@ if ($argv[1] == '--languages') {
     die();
 }
 foreach ($argv as $arg) {
-    list($k, $v) = explode("=", $arg);
+    list($k, $v) = explode("=", $arg, 2);
     switch ($k) {
         case '--from':
             $translate->setFrom($v);

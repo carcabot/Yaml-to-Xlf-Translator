@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="messages.es.xlf">
+        <body>            <trans-unit id="1">
+                <source>hello</source>
+                <target><![CDATA[]]></target>
+            </trans-unit>            <trans-unit id="2">
+                <source>general.world</source>
+                <target><![CDATA[]]></target>
+            </trans-unit>        </body>
+    </file>
+</xliff>    <?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="messages.es.xlf">
+        <body>            <trans-unit id="1">
+                <source>hello</source>
+                <target><![CDATA[]]></target>
+            </trans-unit>            <trans-unit id="2">
+                <source>general.world</source>
+                <target><![CDATA[]]></target>
+            </trans-unit>        </body>
+    </file>
+</xliff>    <?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="messages.es.xlf">
+        <body><?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="messages.es.xlf">
+        <body><?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="messages.es.xlf">
+        <body>            <trans-unit id="1">
+                <source>hello</source>
+                <target><![CDATA[]]></target>
+            </trans-unit>            <trans-unit id="2">
+                <source>general.world</source>
+                <target><![CDATA[]]></target>
+            </trans-unit>        </body>
+    </file>
+</xliff>    <?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="messages.es.xlf">
+        <body>            <trans-unit id="1">
+                <source>hello</source>
+                <target><![CDATA[]]></target>
+            </trans-unit>            <trans-unit id="2">
+                <source>general.world</source>
+                <target><![CDATA[]]></target>
+            </trans-unit>        </body>
+    </file>
+</xliff>    <?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="messages.es.xlf">
+        <body><?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="messages.es.xlf">
+        <body><?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="messages.es.xlf">
+        <body>            <trans-unit id="1">
+                <source>hello</source>
+                <target><![CDATA[Hola]]></target>
+            </trans-unit>            <trans-unit id="2">
+                <source>general.world</source>
+                <target><![CDATA[Hola mundo]]></target>
+            </trans-unit>        </body>
+    </file>
+</xliff>    
